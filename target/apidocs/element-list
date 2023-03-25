@@ -1,0 +1,15 @@
+com.example.ksv
+com.example.ksv.Controller
+com.example.ksv.Interface
+com.example.ksv.Model
+com.example.ksv.Repository
+com.example.ksv.Security
+com.example.ksv.Security.Controller
+com.example.ksv.Security.Dto
+com.example.ksv.Security.Entity
+com.example.ksv.Security.Enums
+com.example.ksv.Security.Jwt
+com.example.ksv.Security.Repository
+com.example.ksv.Security.Service
+com.example.ksv.Service
+com.example.ksv.Util
