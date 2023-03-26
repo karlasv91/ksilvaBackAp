@@ -26,7 +26,6 @@ com\example\ksv\Service\EducacionService.class
 com\example\ksv\Interface\IEducacionService.class
 com\example\ksv\Interface\IExperienciaService.class
 com\example\ksv\Security\Dto\NuevoUsuario.class
-com\example\ksv\Util\CrearRoles.class
 com\example\ksv\Controller\EducacionController.class
 com\example\ksv\Controller\PersonaController.class
 com\example\ksv\Security\Service\UserDetailslmpl.class
