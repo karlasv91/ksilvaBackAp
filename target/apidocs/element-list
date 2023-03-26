@@ -12,4 +12,3 @@ com.example.ksv.Security.Jwt
 com.example.ksv.Security.Repository
 com.example.ksv.Security.Service
 com.example.ksv.Service
-com.example.ksv.Util
