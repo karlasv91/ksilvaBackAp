@@ -1,5 +1,5 @@
 
-package com.example.ksv.Util;
+/*package com.example.ksv.Util;
 
 import com.example.ksv.Security.Entity.Rol;
 import com.example.ksv.Security.Enums.RolNombre;
@@ -20,7 +20,8 @@ public class CrearRoles implements CommandLineRunner{
         Rol rolUser = new Rol(RolNombre.ROLE_USER);
         
         rolService.save(rolAdmin);
-        rolService.save(rolUser);*/
+        rolService.save(rolUser);
     }
     
-}
+} */
+
