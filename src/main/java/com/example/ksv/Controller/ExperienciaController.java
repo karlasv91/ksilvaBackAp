@@ -18,7 +18,7 @@ import org.springframework.security.access.prepost.PreAuthorize;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins ={"https://kasvfrontend.web.app/","http://localhost:4200"})
 public class ExperienciaController {
     @Autowired IExperienciaService iExperienciaServ;
     
